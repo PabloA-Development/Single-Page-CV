@@ -1,2 +1,2 @@
 # Single-Page-CV
-Single CV Page, Basic practice exercise of the roadmap page
+https://roadmap.sh/projects/single-page-cv
